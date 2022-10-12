@@ -2,7 +2,7 @@ import React from 'react';
 
 const Quiz = ({ quiz }) => {
     const { correctAnswer, options, question } = quiz;
-
+    console.log(correctAnswer);
 
     return (
         <div>
