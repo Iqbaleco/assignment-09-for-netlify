@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/assignment-09-for-netlify/static/css/main.c80d0ca7.css",
-    "main.js": "/assignment-09-for-netlify/static/js/main.1c9550a2.js",
+    "main.js": "/assignment-09-for-netlify/static/js/main.1eedcd2f.js",
     "static/js/787.2d41c80b.chunk.js": "/assignment-09-for-netlify/static/js/787.2d41c80b.chunk.js",
     "index.html": "/assignment-09-for-netlify/index.html",
     "main.c80d0ca7.css.map": "/assignment-09-for-netlify/static/css/main.c80d0ca7.css.map",
-    "main.1c9550a2.js.map": "/assignment-09-for-netlify/static/js/main.1c9550a2.js.map",
+    "main.1eedcd2f.js.map": "/assignment-09-for-netlify/static/js/main.1eedcd2f.js.map",
     "787.2d41c80b.chunk.js.map": "/assignment-09-for-netlify/static/js/787.2d41c80b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c80d0ca7.css",
-    "static/js/main.1c9550a2.js"
+    "static/js/main.1eedcd2f.js"
   ]
 }
