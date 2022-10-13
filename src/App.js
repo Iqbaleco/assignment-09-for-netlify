@@ -42,7 +42,7 @@ function App() {
   ])
   return (
     <div className="App">
-      <RouterProvider router={router}></RouterProvider>
+      <RouterProvider basename="/assignment-09-for-netlify" router={router}></RouterProvider>
     </div>
   );
 }
