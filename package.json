@@ -1,8 +1,8 @@
 {
-  "homepage": "http://Iqbaleco.github.io/assignment-09-for-netlify",
-  "name": "quizsy-assignment-9",
+  "name": "assignment-09-for-netlify",
+  "homepage": "https://Iqbaleco.github.io/assignment-09-for-netlify",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
