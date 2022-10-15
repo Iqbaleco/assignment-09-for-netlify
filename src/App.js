@@ -1,5 +1,5 @@
 import './App.css';
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createHashRouter, RouterProvider } from 'react-router-dom';
 import Main from './Main/Main';
 import Home from './components/Home/Home';
 import Chart from './components/Chart/Chart';
@@ -7,7 +7,7 @@ import Blog from './components/Blog/Blog';
 import Quizzes from './components/Quizzes/Quizzes';
 
 function App() {
-  const router = createBrowserRouter([
+  const router = createHashRouter([
     {
       path: '/',
       element: <Main></Main>,
@@ -42,7 +42,7 @@ function App() {
   ])
   return (
     <div className="App">
-      <RouterProvider basename="/assignment-09-for-netlify" router={router}></RouterProvider>
+      <RouterProvider router={router}></RouterProvider>
     </div>
   );
 }
